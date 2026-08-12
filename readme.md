@@ -15,3 +15,5 @@ If all steps are followed and paths are made program shoudl work without problem
 if not user issue ¯\_(ツ)_/¯
 
 Outputs will go their folder (audio to audio_outputs, videos to video_outputs)
+
+**Note you need both the yt_dlp and customtkinkers python libraries for it too run :)
